@@ -14,6 +14,8 @@ This repository contains a Jenkins Pipeline script written in Groovy that automa
 
 The Jenkins pipeline consists of several stages, each serving a specific purpose in the CI/CD process:
 
+![screenshot](https://github.com/Kartikdudeja/ci-pipeline-java-app/blob/main/CI_Pipeline_Java_App_v1.png)
+
 1. **Build Stage:**
    - Compiles the Java application using Maven.
    - Skips running tests to accelerate the build process.
